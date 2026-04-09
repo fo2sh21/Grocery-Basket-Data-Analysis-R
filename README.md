@@ -84,7 +84,7 @@ install.packages(c(
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/data-analysis-dashboard.git
+git clone https://github.com/fo2sh21/Grocery-Basket-Data-Analysis-R.git
 cd data-analysis-dashboard
 \`\`\`
 
